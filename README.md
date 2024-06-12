@@ -210,7 +210,7 @@ make gas
 ✅ SCOUTS: Add a screenshot of your terminal showing the test coverage
 
 ## Miscellaneous
-Employees of [SPONSOR NAME] and employees' family members are ineligible to participate in this audit.
+Employees of Gondi and employees' family members are ineligible to participate in this audit.
 
 
 
