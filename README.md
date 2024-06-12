@@ -26,7 +26,7 @@ The 4naly3er report can be found [here](https://github.com/code-423n4/2024-06-go
 
 
 _Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
-## 🐺 C4 team: paste this into the bottom of the sponsor's audit repo `README`, then delete this line
+
 
 If the owner of the pool or poolunderwriter are compromised, then pools could be drained by setting underwriting terms agains worthless NFTs.
 The security of those wallets is in a separate layer (multi-sig / governor contract) and should not be considered.
