@@ -1,0 +1,9 @@
+@forge-std/=lib/forge-std/src/
+@openzeppelin/=lib/openzeppelin-contracts/contracts/
+@solady/=lib/solady/src/
+@solmate/=lib/solmate/src/
+@zora/=lib/v3/contracts/
+@chainlink/=lib/chainlink/contracts/src/v0.8/
+@delegate=lib/delegate-registry/src/
+@seaport=lib/seaport/lib/
+test/=test/

@@ -1,0 +1,9 @@
+cache/
+out/
+.vscode/
+script/__pycache__/
+script/.env
+config.yml
+**/.DS_Store
+**/.pyc
+deploy/florida_contracts/__pycache__/

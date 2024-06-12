@@ -1,0 +1,14 @@
+network: local
+fee_recipient: "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266"
+fee_fraction: 100
+min_lock_period: 500
+max_sources: 10
+trigger_fee: 100
+buy_tax: 0
+sell_tax: 100
+
+deployed_addresses:
+  SEAPORT: "0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC"
+  # WETH: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+  # CRYPTOPUNKSMARKET: "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"
+  # WRAPPEDCRYPTOPUNKS: "0xb7f7f6c52f2e2fdb1963eab30438024864c313f6"

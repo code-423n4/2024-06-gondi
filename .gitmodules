@@ -1,0 +1,23 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "lib/v3"]
+	path = lib/v3
+	url = https://github.com/pixeldaogg/v3
+[submodule "/Users/ericdenovitzer/pixel/florida/contracts/lib/v3"]
+	branch = sol13
+[submodule "lib/chainlink"]
+	path = lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "lib/delegate-registry"]
+	path = lib/delegate-registry
+	url = https://github.com/delegatexyz/delegate-registry
+[submodule "lib/seaport"]
+	path = lib/seaport
+	url = https://github.com/ProjectOpenSea/seaport

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "florida-contracts"
+version = "2.0.0"
+description = "Florida street contracts"
+authors = ["Florida street"]
+license = "AGPL-3.0"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^0.20.0"
+pyyaml = "^6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
