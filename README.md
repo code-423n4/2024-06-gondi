@@ -231,7 +231,9 @@ forge test
 forge coverage --ir-minimum
 ```
 
-✅ SCOUTS: Add a screenshot of your terminal showing the test coverage
+Screenshot showing the test coverage:
+
+![](https://github.com/code-423n4/2024-06-gondi/assets/47150934/1180d315-4eff-46d2-bcea-a02f3d86ba10)
 
 ## Slither
 
