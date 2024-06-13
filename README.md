@@ -31,7 +31,8 @@ The security of those wallets is in a separate layer (multi-sig / governor contr
 
 # Overview
 
-[ ⭐️ SPONSORS: add info here ]
+Gondi is a decentralized non-custodial NFT lending protocol that offers the most flexible and capital efficient primitive.
+Gondi loans allows borrowers to access liquidity and obtain the best marginal rate when available as well as allow lenders to earn yield on their capital with the flexibility of entering and exiting their position any moment without affecting borrowers' loans. Gondi V3 loan offers are submitted from both protocol pools as well as peers market participants creating deep liquidity as well as precise risk pricing.
 
 ## Links
 
